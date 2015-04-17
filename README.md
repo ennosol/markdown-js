@@ -1,2 +1,3 @@
 # markdown-js
-Markdown JS
+
+Markdown JS - http://daringfireball.net/projects/markdown/
